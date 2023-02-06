@@ -1,0 +1,9 @@
+spring:
+  servlet:
+    multipart:
+      max-file-size: 3MB
+      max-request-size: 4MB
+
+
+file:
+  dir: /Users/pushrsp/Desktop/projects/upload-largefile/server/upload/
